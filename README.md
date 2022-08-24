@@ -1,1 +1,1 @@
-Heart disease classification problem using K-Nearest Neighbours
+Heart disease classification problem using K-Nearest Neighbour Algorithm
